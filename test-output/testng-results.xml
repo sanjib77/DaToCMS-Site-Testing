@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-22T18:27:52 IST" name="Suite" finished-at="2022-06-22T18:31:28 IST" duration-ms="215244">
+    <groups>
+    </groups>
+    <test started-at="2022-06-22T18:27:52 IST" name="Test" finished-at="2022-06-22T18:31:28 IST" duration-ms="215244">
+      <class name="co.capstone.runner.Runner">
+        <test-method is-config="true" signature="setup()[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:27:53 IST" name="setup" finished-at="2022-06-22T18:27:54 IST" duration-ms="1138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:27:54 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:28:05 IST" duration-ms="11279" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of try for free button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Title of your feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:28:05 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:28:15 IST" duration-ms="10074" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of login button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Title of your feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:28:15 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:28:27 IST" duration-ms="11347" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of subscribe button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Title of your feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:28:27 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:28:34 IST" duration-ms="7001" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of the images"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Title of your feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:28:34 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:28:41 IST" duration-ms="7315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of the read the story link"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Title of your feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:28:41 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:28:49 IST" duration-ms="8482" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of Field Required messages"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login page features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:28:49 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:28:59 IST" duration-ms="9324" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of Email not valid message"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login page features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:28:59 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:29:14 IST" duration-ms="15449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of Invalid Credentials message"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login page features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:29:14 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:29:24 IST" duration-ms="9821" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of DatoCMS Link"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login page features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:29:24 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:29:39 IST" duration-ms="14991" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of Reset Password button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["login page features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:29:39 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:29:50 IST" duration-ms="11405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of rotate image"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Title of your feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:29:50 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:30:02 IST" duration-ms="11362" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of creativo image"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Title of your feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:30:02 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:30:12 IST" duration-ms="9907" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of spehler image"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Title of your feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:30:12 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:30:20 IST" duration-ms="8051" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of trampholin image"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Title of your feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:30:20 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:30:28 IST" duration-ms="8126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of goDigital image"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Title of your feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:30:28 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:30:39 IST" duration-ms="10734" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of Field is Required message"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["signup page features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:30:39 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:30:50 IST" duration-ms="11745" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of Terms and Conditions  button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["signup page features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:30:50 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:31:03 IST" duration-ms="12996" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of email invalid message"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["signup page features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:31:03 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:31:16 IST" duration-ms="12271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of Signup button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["signup page features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method signature="featue(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:31:16 IST" name="featue" data-provider="features" finished-at="2022-06-22T18:31:26 IST" duration-ms="10035" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["verification of Login button"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["signup page features"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- featue -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:co.capstone.runner.Runner@5b6ec132]" started-at="2022-06-22T18:31:26 IST" name="tearDown" finished-at="2022-06-22T18:31:28 IST" duration-ms="1941" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- co.capstone.runner.Runner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
